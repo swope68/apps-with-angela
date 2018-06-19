@@ -15,6 +15,7 @@
 		F6982F5320D892510029B984 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6982F5120D892510029B984 /* LaunchScreen.storyboard */; };
 		F6982F5E20D892510029B984 /* AppsWithAngelaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6982F5D20D892510029B984 /* AppsWithAngelaTests.swift */; };
 		F6982F6920D892510029B984 /* AppsWithAngelaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6982F6820D892510029B984 /* AppsWithAngelaUITests.swift */; };
+		F6982F7920D894EB0029B984 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6982F7820D894EB0029B984 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F6982F6420D892510029B984 /* AppsWithAngelaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppsWithAngelaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6982F6820D892510029B984 /* AppsWithAngelaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppsWithAngelaUITests.swift; sourceTree = "<group>"; };
 		F6982F6A20D892510029B984 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6982F7820D894EB0029B984 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F6982F4F20D892510029B984 /* Assets.xcassets */,
 				F6982F5120D892510029B984 /* LaunchScreen.storyboard */,
 				F6982F5420D892510029B984 /* Info.plist */,
+				F6982F7820D894EB0029B984 /* ThirdViewController.swift */,
 			);
 			path = AppsWithAngela;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				F6982F4B20D892500029B984 /* SecondViewController.swift in Sources */,
 				F6982F4720D892500029B984 /* AppDelegate.swift in Sources */,
+				F6982F7920D894EB0029B984 /* ThirdViewController.swift in Sources */,
 				F6982F4920D892500029B984 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
